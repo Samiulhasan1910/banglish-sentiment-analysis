@@ -1,0 +1,14 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# Large raw dataset (download separately, see data/raw/README.md)
+data/raw/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
